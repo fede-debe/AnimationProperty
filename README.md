@@ -5,7 +5,7 @@
 ------------
 
 PropertyAnimation is an app that shows various types of property animations using
-ObjectAnimator, Animator Set, and its method to showcase how animations works with 
+ObjectAnimator, Animator Set, and its method to showcase how animations work with 
 Android and Kotlin.
 
 :clapper: Animation
