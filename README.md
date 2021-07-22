@@ -1,6 +1,8 @@
 :cartwheeling: Animations App 
 ============================================================================
 
+This is a toy app from Lesson 5 of the Advanced Android Apps with Kotlin course on [Udacity](https://www.udacity.com/).
+
 :eyeglasses: Introduction
 ------------
 
