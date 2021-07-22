@@ -11,7 +11,7 @@ Android and Kotlin.
 :clapper: Animation
 ------------
 
-This application demonstrates how to properly use:
+This application display how to properly use:
 
 - Rotation
 - Translation
