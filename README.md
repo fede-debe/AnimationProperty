@@ -1,4 +1,4 @@
-:cartwheeling: PropertyAnimation 
+:cartwheeling: Animations App 
 ============================================================================
 
 :eyeglasses: Introduction
